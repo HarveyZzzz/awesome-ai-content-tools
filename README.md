@@ -69,6 +69,12 @@ A curated list of AI-powered tools for content creation, digital marketing, and 
 
 ---
 
+## Video Content Tools
+
+| Tool | Description | Link |
+|------|-------------|------|
+| [Cyber Collector](https://t.me/cybercollectorbot) | Free Telegram bot for downloading TikTok (no watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook videos — no signup, no ads | [cybercollector.hitkey.io](https://cybercollector.hitkey.io) |
+
 ## Contributing
 
 1. Fork this repo
