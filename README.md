@@ -25,6 +25,7 @@ A curated list of AI-powered tools for content creation, digital marketing, and 
 | ChatGPT | Conversational AI for content drafting | [chat.openai.com](https://chat.openai.com) |
 | Jasper | AI marketing copy generator | [jasper.ai](https://www.jasper.ai) |
 | Copy.ai | AI-powered copywriting assistant | [copy.ai](https://www.copy.ai) |
+| [CreatorSkills](https://creatorskills.co) | Marketplace of 30+ downloadable AI skills for content creators — YouTube scripting, sponsorship analysis, and audience growth | [creatorskills.co](https://creatorskills.co) |
 
 ## Image & Visual
 
