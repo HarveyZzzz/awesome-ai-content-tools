@@ -34,6 +34,7 @@ A curated list of AI-powered tools for content creation, digital marketing, and 
 | DALL·E 3 | OpenAI image generation | [openai.com](https://openai.com) |
 | Stable Diffusion | Open-source image generation | [stability.ai](https://stability.ai) |
 | Canva AI | Design tool with AI features | [canva.com](https://www.canva.com) |
+| ImagineClip | AI video creation from prompts and images, with effects for short social clips | [imagineclip.com](https://imagineclip.com/ai-image-to-video) |
 
 ## SEO & Marketing
 
