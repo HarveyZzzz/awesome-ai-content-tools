@@ -42,6 +42,7 @@ A curated list of AI-powered tools for content creation, digital marketing, and 
 | SurferSEO | AI-powered SEO content optimizer | [surferseo.com](https://surferseo.com) |
 | Semrush | SEO and marketing analytics | [semrush.com](https://www.semrush.com) |
 | Ahrefs | Backlink and keyword research | [ahrefs.com](https://ahrefs.com) |
+| Screpy | AI SEO platform for audits, content drafts, rank tracking, and reporting | [screpy.com](https://screpy.com/) |
 
 ## E-Commerce
 
