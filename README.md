@@ -33,6 +33,7 @@ A curated list of AI-powered tools for content creation, digital marketing, and 
 | Midjourney | AI image generation via Discord | [midjourney.com](https://www.midjourney.com) |
 | DALL·E 3 | OpenAI image generation | [openai.com](https://openai.com) |
 | Stable Diffusion | Open-source image generation | [stability.ai](https://stability.ai) |
+| GPT Image 2 | AI image generation and editing for marketing, ecommerce, and branded content | [gptimage2.asia](https://gptimage2.asia/) |
 | Canva AI | Design tool with AI features | [canva.com](https://www.canva.com) |
 
 ## SEO & Marketing
