@@ -39,6 +39,7 @@ A curated list of AI-powered tools for content creation, digital marketing, and 
 
 | Tool | Description | Link |
 |------|-------------|------|
+| BulkPublish | API and reusable AI-agent skills for planning, adapting, reviewing, scheduling, and publishing social media content across channels, with MCP support | [bulkpublish-api](https://github.com/azeemkafridi/bulkpublish-api) |
 | SurferSEO | AI-powered SEO content optimizer | [surferseo.com](https://surferseo.com) |
 | Semrush | SEO and marketing analytics | [semrush.com](https://www.semrush.com) |
 | Ahrefs | Backlink and keyword research | [ahrefs.com](https://ahrefs.com) |
