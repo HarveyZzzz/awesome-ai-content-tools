@@ -25,6 +25,7 @@ A curated list of AI-powered tools for content creation, digital marketing, and 
 | ChatGPT | Conversational AI for content drafting | [chat.openai.com](https://chat.openai.com) |
 | Jasper | AI marketing copy generator | [jasper.ai](https://www.jasper.ai) |
 | Copy.ai | AI-powered copywriting assistant | [copy.ai](https://www.copy.ai) |
+| 全媒发 (quanmeifa) | Multi-platform content distribution with AI polishing & real-publish verification | [quanmeifa.com](https://quanmeifa.com) |
 
 ## Image & Visual
 
