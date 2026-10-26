@@ -1,5 +1,6 @@
 # Awesome AI Content Tools 🧠
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 A curated list of AI-powered tools for content creation, digital marketing, and e-commerce optimization.
 
 > Contributions welcome! Submit a PR to add your favorite tools.
